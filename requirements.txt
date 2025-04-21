@@ -1,0 +1,5 @@
+flask
+cryptography
+kyber-py
+flask-talisman 
+python-dotenv
